@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="olvidaste_tu_contrasena">¿Olvidaste tu contraseña?</string>
+    <string name="correo">Correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="recuperar_contrasena">Recuperar Contraseña</string>
+    <string name="datos_personales">Datos Personales</string>
+    <string name="nombre">Nombre</string>
+    <string name="genero">Género</string>
+    <string name="edad">Edad</string>
+    <string name="telefono">Teléfono</string>
+    <string name="datos_de_la_cuenta">Datos de la cuenta</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena_registro">Contraseña</string>
+    <string name="confirmar_contrasena_registro">Confirmar contraseña</string>
+    <string name="registrarme">Registrarme</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="recuperar_cuenta">Recuperar cuenta</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130525704741",
+    "project_id": "peliculas-b5cef",
+    "storage_bucket": "peliculas-b5cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130525704741:android:deb676df30212c847ac5cc",
+        "android_client_info": {
+          "package_name": "daniel.pena.garcia.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcUk1tu7KcX-BD6v2EC5b1adV2uHDIfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
